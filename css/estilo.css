@@ -140,6 +140,45 @@ h2{
 	margin-top: 5px;
 }
 
+/*menu laterais */
+#lateral ul a {
+	font-size: 1.2em;
+	padding: 3px;
+	display: block;
+	line-height: 30px;
+	color: #000;
+	text-decoration: none;
+	border-bottom: 1px solid #f3f3f3;
+}
+
+#lateral ul a:hover{
+	color: #a1a1a1;
+	background: #f9f9f9 url(../imgs/marcador.png) no-repeat left center;
+	padding-left: 20px;
+	transition: all 300ms linear;
+}
+
+/* formulário */
+label{
+	display: block;
+	cursor: pointer;
+}
+
+input{
+	padding: 5px;
+	width: 150px;
+	font-size: 1em;
+	background-color: #fff;
+}
+
+input.submit{
+	width: 100px;
+	border: 2px solid #870529;
+	color: #fff;
+	background-color: #b10333;
+	margin-top: 5px;
+}
+
 /*rodape */
 
 #container-rodape{

@@ -169,6 +169,7 @@ input{
 	width: 150px;
 	font-size: 1em;
 	background-color: #fff;
+	border-radius: 4px;
 }
 
 input.submit{
@@ -177,6 +178,7 @@ input.submit{
 	color: #fff;
 	background-color: #b10333;
 	margin-top: 5px;
+	border-radius: 4px;
 }
 
 /*rodape */

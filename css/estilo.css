@@ -85,3 +85,43 @@ body.fotos #navegacao a#fotos{
     background: #de003e;
     cursor: pointer;
 }
+
+/* Layout três colunas */
+#conteudo{
+	margin-top: 60px;
+	background: #f5f5f5;
+}
+
+#primario {
+	width: 300px;
+	float: left;
+	margin: 0 0 20px 195px;
+	background-color: blue;
+}
+
+#secundario {
+	width: 300px;
+	float: left;
+	margin: 0 0 20px 15px;
+	background-color: red;
+}
+
+#lateral {
+	width: 220px;
+	float: left;
+	margin: 0 0 20px -850px;
+	background-color: black;
+}
+
+/*rodape */
+
+#container-rodape{
+	background-color: #294c71;
+	padding: 20px;
+}
+
+#rodape{
+	width: 850px;
+	margin: 0 auto;
+	color: #fff;
+}

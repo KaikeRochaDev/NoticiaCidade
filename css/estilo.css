@@ -181,6 +181,30 @@ input.submit{
 	border-radius: 4px;
 }
 
+/* img */
+img.imagem-principal{
+	width: 98%;
+	border: 3px solid #dfdfdf;
+}
+
+/* cabeçalhos */
+h3{
+	text-transform: uppercase;
+	display: inline;
+	font-size: 0.9em;
+	padding: 3px;
+}
+
+.destaque h3 {
+	background-color: #b10333;
+	color: #fff;
+}
+
+.entrevista h3 {
+	background-color: #de003e;
+	color: #fff;
+}
+
 /*rodape */
 
 #container-rodape{
